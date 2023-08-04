@@ -1,0 +1,15 @@
+
+/elf
+/obj
+/tmp.d
+/archive
+
+*.s
+*.o
+*.out
+*.elf
+*.asm
+
+*.bc
+*.ic
+*.ir
